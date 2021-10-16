@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiporder orderid="100">
+	
+	<shipto>
+		<name>David</name>
+		<address>16,Ram nagar</address>
+		<city>Bangalore</city>
+		<country>India</country>
+	</shipto>
+<item>
+		<title>Java Complete reference</title>
+		<quantity>1</quantity>
+		<price>450</price>
+</item>
+<item>		
+		<title> Object oriented programming</title>
+		<quantity>1</quantity>
+		<price>300</price>
+</item>
+</shiporder>
